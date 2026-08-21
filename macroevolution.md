@@ -34,4 +34,4 @@ title: Awesome Macroevolution List
 
 ## Whole Genome Duplication
 
-- **[A long-term evolution experiment for whole-genome duplication](https://communities.springernature.com/posts/the-longest-polyploidy-evolution-experiment-by-surprise/)** - This article discusses a long-term evolution experiment focused on whole-genome duplication, providing insights into the evolutionary consequences and mechanisms of polyploidy. Note that the research paper is pay-walled, but the article provides a summary of the findings and implications of the experiment. As this is a groundbreaking experiment I've chosen to include it here, but I will continue to look for a free-to-read version of the paper.
+- **[A long-term evolution experiment for whole-genome duplication](https://communities.springernature.com/posts/the-longest-polyploidy-evolution-experiment-by-surprise/)** - This article discusses a long-term evolution experiment focused on whole-genome duplication, providing insights into the evolutionary consequences and mechanisms of polyploidy. Note that the underlying research paper is paywalled, but the post provides an accessible summary of the findings and implications.

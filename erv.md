@@ -33,6 +33,8 @@ title: Awesome ERV List
 
 - **[Diversity and transmission of koala retrovirus: a case study in three captive koala populations](https://www.nature.com/articles/s41598-022-18939-6/)** - 2022. Joyce, et al. This paper provides a detailed analysis of the diversity and transmission of koala retrovirus (KoRV) in three captive koala populations. The authors used a combination of genomic and epidemiological analyses to investigate the prevalence and diversity of KoRV in these populations, and found that KoRV is highly diverse and can be transmitted both vertically and horizontally.
 
+- **[Endogenous avian leukosis virus subgroup E elements of the chicken reference genome](https://pmc.ncbi.nlm.nih.gov/articles/PMC7597685/)** - 2020. Lee, et al. This paper provides a comprehensive analysis of the endogenous avian leukosis virus (ALV) subgroup E elements in the chicken reference genome. The authors used a combination of genomic and bioinformatic approaches to identify and characterize the ALV-E elements, and found that they are highly diverse and have undergone extensive recombination and mutation.
+
 ## General ERV Papers
 
 - **[Whole-genome comparison of endogenous retrovirus segregation across wild and domestic host species populations](https://www.pnas.org/doi/10.1073/pnas.1815056115/)** - 2019. Belyi, Levine, Skalka. This paper provides a comprehensive analysis of the segregation of endogenous retroviruses (ERVs) across wild and domestic host species populations. The authors used whole-genome sequencing data to investigate the distribution and diversity of ERVs in a variety of host species, and found that ERV segregation is influenced by both host population structure and viral evolutionary dynamics.

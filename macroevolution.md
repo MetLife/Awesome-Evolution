@@ -11,6 +11,10 @@ title: Awesome Macroevolution List
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
 
+- [Multicellularity](#multicellularity)
+- [Reproductive Modes](#reproductive-modes)
+- [Photosynthic Paths](#photosynthic-paths)
+- [Whole Genome Duplication](#whole-genome-duplication)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

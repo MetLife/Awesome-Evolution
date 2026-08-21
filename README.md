@@ -107,7 +107,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ## Curated Papers
 
-### Currated Sub-Awesomes
+### Curated Sub-Awesomes
 
 - **[Awesome ERV List](erv.md)** - A curated list of research papers and resources on endogenous retroviruses (ERVs), which are viral sequences that have integrated into the genomes of their host organisms over evolutionary time. This list includes seminal papers on the use of ERVs to reconstruct primate phylogenies, as well as recent studies on the origin and evolution of human endogenous retroviruses (HERVs) in primates.
 

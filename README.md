@@ -25,7 +25,7 @@ This list focuses on collecting and sharing information about biological evoluti
 - [Science and Evolution Communicators](#science-and-evolution-communicators)
 - [Recommended Books](#recommended-books)
 - [Curated Papers](#curated-papers)
-  - [Currated Sub-Awesomes](#currated-sub-awesomes)
+  - [Curated Sub-Awesomes](#curated-sub-awesomes)
   - [PLOS (Public Library of Science)](#plos-public-library-of-science)
   - [Search](#search)
 - [Genome Mapping Projects](#genome-mapping-projects)

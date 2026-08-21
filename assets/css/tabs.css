@@ -24,7 +24,7 @@
 .site-tabs a:focus-visible {
   background: #ffffff;
   color: #1f6feb;
-  outline: 2px solid #1f6feb;
+  outline: 2px solid currentColor;
   outline-offset: 1px;
 }
 

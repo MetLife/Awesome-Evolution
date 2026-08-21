@@ -53,7 +53,13 @@
         {% for tab in tabs %}
           {% assign tab_parts = tab | split: '|' %}
           {% assign tab_path = tab_parts[1] %}
-          {% assign tab_index_path = tab_path | append: 'index.html' %}
+          {% if tab_path == '/' %}
+            {% assign tab_index_path = '/index.html' %}
+          {% elsif tab_path contains '.' %}
+            {% assign tab_index_path = tab_path %}
+          {% else %}
+            {% assign tab_index_path = tab_path | append: '/index.html' %}
+          {% endif %}
           <a href="{{ tab_path | relative_url }}"{% if page.url == tab_path or page.url == tab_index_path %} class="active" aria-current="page"{% endif %}>{{ tab_parts[0] }}</a>
         {% endfor %}
       </nav>

@@ -108,13 +108,13 @@ This list focuses on collecting and sharing information about biological evoluti
 
 ## Curated Papers
 
-### Endogenous Retroviruses (ERVs)
-
 - **[Awesome ERV List](erv.md)** - A curated list of research papers and resources on endogenous retroviruses (ERVs), which are viral sequences that have integrated into the genomes of their host organisms over evolutionary time. This list includes seminal papers on the use of ERVs to reconstruct primate phylogenies, as well as recent studies on the origin and evolution of human endogenous retroviruses (HERVs) in primates.
 
 - **[Awesome Genetics List](genetics.md)** - A curated list of research papers and resources on genetics, including studies on the phylogenetic relationships among cetartiodactyls (a group of mammals that includes whales and hippos) and the role of molecular adaptations in the aquatic transition of cetartiodactyl mammals.
 
 - **[Awesome Fossils List](fossils.md)** - A curated list of research papers and resources on fossils, including studies on major transitional form fossils such as Tiktaalik roseae, which provides important insights into the evolution of tetrapod limbs from fish fins.
+
+- **[Awesome Macroevolution List](macroevolution.md)** - A curated list of research papers and resources on macroevolution, including studies on the evolution of antifreeze proteins in polar ice fish and the role of the human-specific gene ARHGAP11B in promoting basal progenitor amplification and neocortex expansion.
 
 ### PLOS (Public Library of Science)
 

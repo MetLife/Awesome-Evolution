@@ -80,7 +80,7 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Carl Zimmer](https://carlzimmer.com/category/articles/)** - Author and science journalist for the New York Times with a strong focus on macroevolution, the intricacies of viral evolution (including endogenous retroviruses), and how parasites shape the tree of life.
 
-- **[Matthew Herron: Website of evolutionary biologist Matthew Herron, Ph.D.](https://www.matthewherron.net/)** - Dr. Herron is an evolutionary biologist and Associate Professor of Biology at the University of Idaho. His research focuses on experimental evolution, microbial ecology, and the evolution of multicellularity.
+- **[Matthew Herron](https://www.matthewherron.net/)** - Website of evolutionary biologist Matthew Herron, Ph.D. Dr. Herron is an evolutionary biologist and Associate Professor of Biology at the University of Idaho. His research focuses on experimental evolution, microbial ecology, and the evolution of multicellularity.
 
 - **[Panda's Thumb](https://pandasthumb.org/)** - The Panda's Thumb is a massive collective of highly popular evolutionary biologists, mathematicians, and paleontologists (such as Nick Matzke, Wesley Elsberry, and various NCSE members). This is arguably the most influential group-run evolution blog on the web.
 

@@ -1,0 +1,24 @@
+.resource-tabs {
+  margin: 0 0 24px;
+  border-top: 1px solid #d2d2d2;
+}
+
+.resource-tabs a {
+  display: block;
+  padding: 9px 12px;
+  border-bottom: 1px solid #d2d2d2;
+  color: #2879d0;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.resource-tabs a:hover,
+.resource-tabs a:focus-visible {
+  background: #f2f2f2;
+  color: #2879d0;
+}
+
+.resource-tabs a.active {
+  background: #2879d0;
+  color: #ffffff;
+}

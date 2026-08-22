@@ -80,6 +80,8 @@ This list focuses on collecting and sharing information about biological evoluti
 
 - **[Carl Zimmer](https://carlzimmer.com/category/articles/)** - Author and science journalist for the New York Times with a strong focus on macroevolution, the intricacies of viral evolution (including endogenous retroviruses), and how parasites shape the tree of life.
 
+- **[Matthew Herron](https://www.matthewherron.net/)** - Website of evolutionary biologist Matthew Herron, Ph.D. Dr. Herron is an evolutionary biologist and Associate Professor of Biology at the University of Idaho. His research focuses on experimental evolution, microbial ecology, and the evolution of multicellularity.
+
 - **[Panda's Thumb](https://pandasthumb.org/)** - The Panda's Thumb is a massive collective of highly popular evolutionary biologists, mathematicians, and paleontologists (such as Nick Matzke, Wesley Elsberry, and various NCSE members). This is arguably the most influential group-run evolution blog on the web.
 
 - **[Talk Origins Archive](https://talkorigins.org/)** - Talk.origins is a Usenet newsgroup devoted to the discussion and debate of biological and physical origins. Most discussions in the newsgroup center on the creation/evolution controversy, but other topics of discussion include the origin of life, geology, biology, catastrophism, cosmology, and theology.
@@ -124,15 +126,42 @@ PLOS is a non-profit organization on a mission to drive open science forward wit
 
 PLOS is a mission-driven open science publisher covering all scientific disciplines with a focus on fundamental and applied research across life, health, sustainability, engineering, and technology.
 
-- **[Evolutionary Biology](https://journals.plos.org/plosone/browse/evolutionary_biology)** - PLOS ONE is a peer-reviewed open access scientific journal published by the Public Library of Science (PLOS) since 2006. PLOS ONE accepts research in all areas of science and medicine, including evolutionary biology.
+- **[Evolutionary Biology](https://journals.plos.org/plosone/browse/evolutionary_biology/)** - PLOS ONE is a peer-reviewed open access scientific journal published by the Public Library of Science (PLOS) since 2006. PLOS ONE accepts research in all areas of science and medicine, including evolutionary biology.
 
 - **[PLOS Biology: Evolutionary Biology](https://journals.plos.org/plosbiology/)** - PLOS Biology is a peer-reviewed scientific journal covering all aspects of biology, including evolutionary biology. It is published by the Public Library of Science (PLOS) since 2003.
 
 - **[PLOS Genetics: Evolutionary Biology](https://journals.plos.org/plosgenetics/)** - PLOS Genetics is a peer-reviewed scientific journal covering all aspects of genetics, including evolutionary biology. It is published by the Public Library of Science (PLOS) since 2005.
 
+### Related Open Access Research Sites
+
+- **[eLife Sciences](https://elifesciences.org/subjects/evolutionary-biology/)** - eLife is a non-profit organization that aims to accelerate discovery by operating a platform for research communication and engagement in the life and biomedical sciences. It publishes research articles, reviews, and other content related to evolutionary biology.
+
+- **[Oxford Academic: Evolution - International Journal of Organic Evolution](https://academic.oup.com/evolut/)** - Oxford Academic is a platform that provides access to a wide range of academic journals, including those related to evolutionary biology. It offers research articles, reviews, and other content in the field of evolutionary biology.
+  - **[Oxford Academic: Molecular Biology and Evolution](https://academic.oup.com/mbe/)**
+  - **[Oxford Academic: Genome Biology and Evolution](https://academic.oup.com/gbe/)**
+  - **[Oxford Academic: Evolution Letters](https://academic.oup.com/evlett/)**
+
+- **[Springer Nature: BMC Ecology and Evolution](https://link.springer.com/journal/12862/)** - BMC Ecology and Evolution is an open access, peer-reviewed journal that welcomes research across all aspects of ecological and evolutionary biology, including population genetics, conservation genetics, phylogenetics, behavioural ecology, population ecology, macroecology, palaeontology, biodiversity, theoretical research and ecological and evolutionary developmental biology.
+
+- **[Proceedings of the Royal Society](https://royalsocietypublishing.org/rspb/)** - The Proceedings of the Royal Society is a scientific journal published by the Royal Society, covering all aspects of biology, including evolutionary biology. It publishes research articles, reviews, and other content related to evolutionary biology.
+
+- **[bioRXiv: Evolutionary Biology](https://www.biorxiv.org/collection/evolutionary-biology/)** - bioRxiv is a free online archive and distribution service for unpublished preprints in the life sciences. It allows researchers to share their findings with the scientific community before formal peer review and publication, including research in evolutionary biology.
+
 ### Search
 
 - **[PubMed](https://pubmed.ncbi.nlm.nih.gov/)** - PubMed is a free search engine accessing primarily the MEDLINE database of references and abstracts on life sciences and biomedical topics. The United States National Library of Medicine (NLM) at the National Institutes of Health maintains the database as part of the Entrez system of information retrieval.
+
+- **[Semantic Scholar](https://www.semanticscholar.org/)** - Semantic Scholar is a free, AI-powered research tool for scientific literature, based at the Allen Institute for AI. It uses machine learning and natural language processing to help researchers find relevant information quickly and efficiently.
+
+- **[Google Scholar](https://scholar.google.com/)** - Google Scholar is a freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines. It provides a simple way to broadly search for scholarly literature, including articles, theses, books, conference papers, and patents.
+
+## Research Labs
+
+- **[Ratcliff Lab @ Georgia Tech](https://ratclifflab.biosci.gatech.edu/)** - The Ratcliff Lab at Georgia Tech focuses on the evolution of multicellularity, using experimental evolution to study the transition from unicellular to multicellular life forms. Their research explores the genetic and phenotypic changes that occur during this transition, providing insights into the evolutionary processes that drive the emergence of complex multicellular organisms.
+
+- **[Rainey Lab (Max Planck Institute for Evolutionary Biology)](https://www.evolbio.mpg.de/mpb/)** - The Rainey Lab at the Max Planck Institute for Evolutionary Biology focuses on experimental evolution and microbial ecology. Their research explores the evolution of cooperation, social behavior, and the emergence of multicellularity in microbial populations.
+
+- **[Barrick Lab - Michigan State University](https://barricklab.org/)** - The Barrick Lab at Michigan State University focuses on experimental evolution, microbial genomics, and the study of adaptive evolution in bacteria. Their research investigates the genetic basis of adaptation, the dynamics of microbial populations, and the role of horizontal gene transfer in shaping bacterial genomes.
 
 ## Genome Mapping Projects
 
@@ -163,6 +192,36 @@ The most prominent global consortia and projects actively mapping genomes across
 - **[The 10,000 Plant Genomes Project (10KP)](https://db.cngb.org/10kp/)** - An international initiative spearheaded by BGI (Beijing Genomics Institute) and global botanical partners aiming to sequence 10,000 plant species covering every major lineage of land plants and algae. This library provides a deep evolutionary view into how plant life transitioned from aquatic environments to terrestrial landscapes.
 
 - **[The 1000 Fungal Genomes Project (1KFG)](https://mycocosm.jgi.doe.gov/mycocosm/home/)** - Run by the Department of Energy Joint Genome Institute (JGI), this project is focused on mapping representative genomes across the entire kingdom of Fungi. It aims to fill deep gaps in the fungal tree of life to better map out carbon cycling, plant-fungal symbiotic relationships, and industrial enzyme discovery.
+
+### Long-Term Evolution Experiments
+
+- **[The Long-Term Evolution Experiment (LTEE)](https://the-ltee.org/)** - The Long-Term Evolution Experiment (LTEE) is a landmark study in experimental evolution, initiated by Dr. Richard Lenski in 1988. The experiment involves the continuous cultivation of 12 populations of Escherichia coli bacteria over tens of thousands of generations, allowing researchers to observe evolutionary changes in real-time and investigate the dynamics of adaptation, mutation, and genetic drift.
+
+- **[Multicellularity Long-Term Evolution Experiment (MuLTEE)](https://ratclifflab.biosci.gatech.edu/research-2/)** - The Multicellularity Long-Term Evolution Experiment (MuLTEE) is a landmark study in experimental evolution, initiated by Dr. William C. Ratcliff in 2012. The experiment involves the continuous cultivation of yeast populations under controlled conditions for over 10 years, allowing researchers to observe evolutionary changes in real-time and investigate the dynamics of adaptation, mutation, and genetic drift.
+
+- **[Illinois Long-term Selection Experiment](http://mooselab.cropsci.illinois.edu/longterm.html)** - The Illinois Long-term Selection Experiment is a long-running maize (corn) selection program begun by Cyril G. Hopkins at the University of Illinois in 1896, selecting for kernel oil and protein content and providing a unique window into evolutionary responses to sustained artificial selection.
+
+- **Related Studies Without Known Online Presence**
+  - **The "Dark-Fly" Experiment (Kyoto University)**
+    - Timeline: 1954–Present (>70 years, 1,500+ generations).
+    - Organism: Fruit fly (Drosophila melanogaster).
+    - Focus & Discoveries: Initiated by Syuichi Mori, fly populations have been reared in total, continuous darkness. Genome sequencing revealed over 200,000 single nucleotide polymorphisms (SNPs) and structural mutations, leading to adaptive shifts in olfactory receptor genes, altered circadian behaviors, and higher reproductive fitness in dark environments compared to ancestral controls.
+  - **The Russian Fox Domestication Experiment (Institute of Cytology & Genetics)**
+    - Timeline: 1959–Present (>65 years, 60+ generations).
+    - Organism: Silver foxes (Vulpes vulpes).
+    - Focus & Discoveries: Initiated by Dmitry Belyaev and Lyudmila Trut to identify the genetic and hormonal basis of domestication. Selecting exclusively for tameness toward humans inadvertently triggered the "domestication syndrome"—floppy ears, rolled tails, piebald coats, lowered basal cortisol, altered cranial proportions, and prolonged juvenile behavioral windows.
+  - **The Rose Lab Drosophila Longevity Lines (UC Irvine)**
+    - Timeline: 1981–Present (>40 years, 1,000+ generations).
+    - Organism: Fruit fly (Drosophila melanogaster).
+    - Focus & Discoveries: Michael Rose selected flies by collecting eggs exclusively from the oldest surviving individuals of each generation. The lines evolved up to quadrupled lifespans, increased stress resistance, and late-life mortality plateaus, providing foundational experimental validation for evolutionary theories of aging and antagonistic pleiotropy.
+  - **The Desai Lab High-Throughput Yeast Evolution Experiment (Harvard University)**
+    - Timeline: 2010s–Present (10,000+ generations).
+    - Organism: Baker’s yeast (Saccharomyces cerevisiae).
+    - Focus & Discoveries: Michael Desai's lab uses automated liquid handlers and DNA barcoding to evolve hundreds of independent haploid and diploid yeast lines simultaneously. This massive parallelism maps the geometry of fitness landscapes, demonstrating pervasive diminishing-returns epistasis (where beneficial mutations provide smaller fitness gains in fitter backgrounds) and widespread clonal interference.
+  - **The Trinidadian Guppy Evolution Project (UC Riverside / David Reznick)**
+    - Timeline: 1980s–Present (40+ years in natural stream ecosystems).
+    - Organism: Trinidadian guppy (Poecilia reticulata).
+    - Focus & Discoveries: A long-term experimental evolution study conducted in natural field environments. By transplanting guppies between high-predation downstream sites and low-predation upstream barrier pools, researchers proved that life-history traits (age at maturity, brood size, offspring investment, and male coloration) evolve by natural selection in real time over ecological timescales.
 
 ## Genome Browsers / Gene Diagrams
 
@@ -195,6 +254,8 @@ If you are doing research focused on specific branches of life, generic browsers
 - **[TAIR (The Arabidopsis Information Resource)](https://www.arabidopsis.org/)** - The standard gateway for plant genomics, focusing on the model plant Arabidopsis thaliana.
 
 - **[SGD (Saccharomyces Genome Database)](https://www.yeastgenome.org/)** - The ultimate portal for budding yeast genomics, highly relevant for studying basic eukaryotic cell evolution.
+
+- **[LTEE Genome Browser](https://barricklab.org/shiny/LTEE-Ecoli/)** - A specialized genome browser for the Long-Term Evolution Experiment (LTEE) with E. coli, providing access to genomic data and evolutionary insights from this landmark study.
 
 ### Next-Gen Web Browsers (For Custom/Local Data)
 

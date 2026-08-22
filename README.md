@@ -202,7 +202,7 @@ The most prominent global consortia and projects actively mapping genomes across
 
 - **[Multicellularity Long Term Evolution Experiment (MuLTEE)](https://ratclifflab.biosci.gatech.edu/research-2/)** - The Multicellularity Long Term Evolution Experiment (MuLTEE) is a landmark study in experimental evolution, initiated by Dr. William C. Ratcliff in 2012. The experiment involves the continuous cultivation of yeast populations under controlled conditions for over 10 years, allowing researchers to observe evolutionary changes in real-time and investigate the dynamics of adaptation, mutation, and genetic drift.
 
-- **[Illinois Long-term Selection Experiment](http://mooselab.cropsci.illinois.edu/longterm.html)** - The Illinois Long-term Selection Experiment is a landmark study in experimental evolution, initiated by Dr. Michael D. Purugganan in 1988. The experiment involves the continuous cultivation of maize (corn) populations under controlled conditions for over 30 years, allowing researchers to observe evolutionary changes in real-time and investigate the dynamics of adaptation, mutation, and genetic drift.
+- **[Illinois Long-term Selection Experiment](http://mooselab.cropsci.illinois.edu/longterm.html)** - The Illinois Long-term Selection Experiment is a long-running maize (corn) selection program begun by Cyril G. Hopkins at the University of Illinois in 1896, selecting for kernel oil and protein content and providing a unique window into evolutionary responses to sustained artificial selection.
 
 - **Related Studies Without Known Online Presence**
   - **The "Dark-Fly" Experiment (Kyoto University)**

@@ -193,11 +193,11 @@ The most prominent global consortia and projects actively mapping genomes across
 
 - **[The 1000 Fungal Genomes Project (1KFG)](https://mycocosm.jgi.doe.gov/mycocosm/home/)** - Run by the Department of Energy Joint Genome Institute (JGI), this project is focused on mapping representative genomes across the entire kingdom of Fungi. It aims to fill deep gaps in the fungal tree of life to better map out carbon cycling, plant-fungal symbiotic relationships, and industrial enzyme discovery.
 
-### Long Term Evolution Experiments
+### Long-Term Evolution Experiments
 
 - **[The Long-Term Evolution Experiment (LTEE)](https://the-ltee.org/)** - The Long-Term Evolution Experiment (LTEE) is a landmark study in experimental evolution, initiated by Dr. Richard Lenski in 1988. The experiment involves the continuous cultivation of 12 populations of Escherichia coli bacteria over tens of thousands of generations, allowing researchers to observe evolutionary changes in real-time and investigate the dynamics of adaptation, mutation, and genetic drift.
 
-- **[Multicellularity Long Term Evolution Experiment (MuLTEE)](https://ratclifflab.biosci.gatech.edu/research-2/)** - The Multicellularity Long Term Evolution Experiment (MuLTEE) is a landmark study in experimental evolution, initiated by Dr. William C. Ratcliff in 2012. The experiment involves the continuous cultivation of yeast populations under controlled conditions for over 10 years, allowing researchers to observe evolutionary changes in real-time and investigate the dynamics of adaptation, mutation, and genetic drift.
+- **[Multicellularity Long-Term Evolution Experiment (MuLTEE)](https://ratclifflab.biosci.gatech.edu/research-2/)** - The Multicellularity Long-Term Evolution Experiment (MuLTEE) is a landmark study in experimental evolution, initiated by Dr. William C. Ratcliff in 2012. The experiment involves the continuous cultivation of yeast populations under controlled conditions for over 10 years, allowing researchers to observe evolutionary changes in real-time and investigate the dynamics of adaptation, mutation, and genetic drift.
 
 - **[Illinois Long-term Selection Experiment](http://mooselab.cropsci.illinois.edu/longterm.html)** - The Illinois Long-term Selection Experiment is a long-running maize (corn) selection program begun by Cyril G. Hopkins at the University of Illinois in 1896, selecting for kernel oil and protein content and providing a unique window into evolutionary responses to sustained artificial selection.
 

@@ -34,7 +34,7 @@ This list focuses on collecting and sharing information about biological evoluti
   - [Large Scale Genome Sequencing Projects](#large-scale-genome-sequencing-projects)
   - [Regional Biota Mapping](#regional-biota-mapping)
   - [Plant, Fungi, & Symbiosis Networks](#plant-fungi--symbiosis-networks)
-  - [Long Term Evolution Experiments](#long-term-evolution-experiments)
+  - [Long-Term Evolution Experiments](#long-term-evolution-experiments)
 - [Genome Browsers / Gene Diagrams](#genome-browsers--gene-diagrams)
   - [Online Multi-Species Browsers](#online-multi-species-browsers)
   - [Specialized Model Organism Browsers](#specialized-model-organism-browsers)

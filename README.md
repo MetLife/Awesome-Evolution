@@ -145,6 +145,8 @@ PLOS is a mission-driven open science publisher covering all scientific discipli
   - **[Oxford Academic: Genome Biology and Evolution](https://academic.oup.com/gbe/)**
   - **[Oxford Academic: Evolution Letters](https://academic.oup.com/evlett/)**
 
+- **[PNAS: Proceedings of the National Academy of Sciences](https://www.pnas.org/)** - PNAS is a peer-reviewed scientific journal that publishes research articles, reviews, and other content related to evolutionary biology. It is published by the National Academy of Sciences (NAS) and covers a wide range of scientific disciplines, including evolutionary biology.
+
 - **[Springer Nature: BMC Ecology and Evolution](https://link.springer.com/journal/12862/)** - BMC Ecology and Evolution is an open access, peer-reviewed journal that welcomes research across all aspects of ecological and evolutionary biology, including population genetics, conservation genetics, phylogenetics, behavioural ecology, population ecology, macroecology, palaeontology, biodiversity, theoretical research and ecological and evolutionary developmental biology.
 
 - **[Proceedings of the Royal Society](https://royalsocietypublishing.org/rspb/)** - The Proceedings of the Royal Society is a scientific journal published by the Royal Society, covering all aspects of biology, including evolutionary biology. It publishes research articles, reviews, and other content related to evolutionary biology.

@@ -15,6 +15,9 @@ title: Awesome Macroevolution List
 - [Reproductive Modes](#reproductive-modes)
 - [Photosynthic Paths](#photosynthic-paths)
 - [Whole Genome Duplication](#whole-genome-duplication)
+- [Genus-Level Evolution](#genus-level-evolution)
+  - [Lake Victoria Cichlids](#lake-victoria-cichlids)
+- [Modern Evolutionary Transitions](#modern-evolutionary-transitions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
